@@ -1,0 +1,8 @@
+supabase
+python-dotenv
+pandas
+numpy
+streamlit
+google-generativeai
+pydantic
+pytest
